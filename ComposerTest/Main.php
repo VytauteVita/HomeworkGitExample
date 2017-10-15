@@ -8,3 +8,5 @@
 require '../vendor/autoload.php';
 $Shine = new \ComposerTest\A\Uptown\Name();
 
+print "Done";
+

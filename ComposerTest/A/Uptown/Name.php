@@ -10,4 +10,9 @@ namespace ComposerTest\A\Uptown;
 class Name {
     public $person;
 
+    public function __construct()
+    {
+        print "Done 2 \n";
+    }
+
 }
